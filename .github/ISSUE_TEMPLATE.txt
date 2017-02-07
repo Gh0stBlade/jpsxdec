@@ -1,0 +1,30 @@
+>
+> Please fill in the following information
+> Note: attaching the .log files after reproducing the issue is very helpful
+>
+
+ Environment
+-------------
+
+jPSXdec version: 
+Operating system: 
+Java runtime environment: 
+
+
+ PlayStation Game (if applicable)
+----------------------------------
+
+Name: 
+Region code (e.g. SLUS-1234): 
+
+
+ Description 
+-------------
+
+What happened?:
+
+What was supposed to happen?:
+
+What were you doing?:
+
+
